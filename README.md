@@ -274,7 +274,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 - 📧 Email: chandrapal.deora.ds@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)  
-- 🐍 GitHub: [github.com/your-username](https://github.com/chandu-rajput)
+- 🐍 GitHub: [github.com/chandu-rajput](https://github.com/chandu-rajput)
 
 
 
